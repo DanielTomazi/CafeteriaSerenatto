@@ -1,6 +1,7 @@
 # CafeteriaSerenatto
-Acesse aqui o site: https://bistro-serenatto.vercel.app
 ***
-Site referente a uma cafeteria e bistro criado utilizando HTML, CSS.
-
+Access the website here: https://bistro-serenatto.vercel.app
+***
+Website for a café and bistro created using HTML and CSS.
+***
 ![img](https://github.com/DanielTomazi/CafeteriaSerenatto/blob/main/imgcafe-demo.png)
