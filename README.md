@@ -178,16 +178,3 @@ Acesse: `http://localhost:8000`
 
 ---
 
-## Customização
-
-### **Cores**
-Altere as variáveis CSS em `:root` para personalizar a paleta:
-
-```css
-:root {
-  --primary-beige: #sua-cor;
-  --accent-gold: #sua-cor;
-  /* ... outras variáveis */
-}
-```
-
