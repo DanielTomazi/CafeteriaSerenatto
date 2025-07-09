@@ -1,4 +1,4 @@
-# ☕ Serenatto - Café & Bistrô
+# Serenatto - Café & Bistrô
 
 <div align="center">
   <img src="./Serenatto/assets/logo.png" alt="Logo Serenatto" width="200">
@@ -10,38 +10,38 @@
   [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)]()
 </div>
 
-## 🌟 Sobre o Projeto
+## Sobre o Projeto
 
 **Serenatto** é um site elegante e profissional desenvolvido para um café & bistrô fictício, focando na experiência do usuário e design moderno. O projeto combina HTML5 semântico, CSS3 avançado e JavaScript interativo para criar uma presença digital sofisticada e envolvente.
 
-### 🎯 Objetivo
+### Objetivo
 Criar uma identidade digital premium que reflita a qualidade e o ambiente acolhedor do café, oferecendo aos visitantes uma experiência imersiva que os convide a conhecer o estabelecimento.
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
-### 🎨 **Design & Visual**
+### **Design & Visual**
 - **Design System Completo**: Paleta de cores coesa com tons terrosos e dourados
 - **Tipografia Responsiva**: Sistema fluido que se adapta a qualquer tela
 - **Animações Suaves**: Transições elegantes sem comprometer a performance
 - **Glassmorphism**: Efeitos de vidro fosco em elementos chave
 - **Dark/Light Mode**: Alternância de tema com persistência local
 
-### 🏗️ **Arquitetura & Layout**
+### **Arquitetura & Layout**
 - **Mobile-First**: Design responsivo otimizado para dispositivos móveis
 - **Grid System**: Layout flexível usando Bootstrap 5.3
 - **Navbar Inteligente**: Navegação fixa com efeitos de scroll
 - **Seções Interativas**: Cards com hover effects e micro-interações
 
-### 📋 **Componentes Principais**
+### **Componentes Principais**
 - **Hero Section**: Banner principal com call-to-action
 - **Serviços**: Cards informativos sobre Café & Bistrô, Buffet e Delivery
 - **Produtos**: Galeria interativa com modal de detalhes
 - **Formulário de Contato**: Sistema completo com validação e feedback
 - **Footer**: Informações de contato e redes sociais
 
-### 🛠️ **Interatividade**
+### **Interatividade**
 - **Range Slider**: Avaliação visual com estrelas
 - **Formulário Dinâmico**: Validação em tempo real e mensagens de sucesso
 - **Offcanvas Menu**: Menu lateral responsivo
@@ -49,7 +49,7 @@ Criar uma identidade digital premium que reflita a qualidade e o ambiente acolhe
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### **Frontend Core**
 - **HTML5**: Estrutura semântica e acessível
@@ -74,7 +74,7 @@ Criar uma identidade digital premium que reflita a qualidade e o ambiente acolhe
 
 ---
 
-## 📱 Responsividade
+## Responsividade
 
 | Dispositivo | Resolução | Layout |
 |------------|-----------|---------|
@@ -84,7 +84,7 @@ Criar uma identidade digital premium que reflita a qualidade e o ambiente acolhe
 
 ---
 
-## 🎨 Design System
+## Design System
 
 ### **Paleta de Cores**
 ```css
@@ -106,7 +106,7 @@ Criar uma identidade digital premium que reflita a qualidade e o ambiente acolhe
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 CafeteriaSerenatto/
@@ -128,7 +128,7 @@ CafeteriaSerenatto/
 
 ---
 
-## 🛠️ Como Executar
+## Como Executar
 
 ### **Pré-requisitos**
 - Navegador web moderno
@@ -162,13 +162,13 @@ Acesse: `http://localhost:8000`
 
 ---
 
-## 📊 Performance
+## Performance
 
 ### **Métricas**
-- ⚡ **Carregamento**: < 2s (3G)
-- 📱 **Mobile Score**: 95+
-- ♿ **Acessibilidade**: AA compliant
-- 🎯 **SEO Score**: 90+
+- **Carregamento**: < 2s (3G)
+- **Mobile Score**: 95+
+- **Acessibilidade**: AA compliant
+- **SEO Score**: 90+
 
 ### **Otimizações**
 - Imagens comprimidas e otimizadas
@@ -178,7 +178,7 @@ Acesse: `http://localhost:8000`
 
 ---
 
-## 🔧 Customização
+## Customização
 
 ### **Cores**
 Altere as variáveis CSS em `:root` para personalizar a paleta:
@@ -191,56 +191,3 @@ Altere as variáveis CSS em `:root` para personalizar a paleta:
 }
 ```
 
-### **Conteúdo**
-- **Textos**: Edite diretamente no `index.html`
-- **Imagens**: Substitua arquivos na pasta `assets/`
-- **Estilos**: Modifique `estilos.css` seguindo a estrutura existente
-
----
-
-## 🤝 Contribuição
-
-1. **Fork** o projeto
-2. **Crie** uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. **Commit** suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** para a branch (`git push origin feature/AmazingFeature`)
-5. **Abra** um Pull Request
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## 📞 Contato
-
-**Desenvolvido com ❤️ por [Seu Nome]**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu-email@email.com)
-
----
-
-<div align="center">
-  
-  ### 🌟 Se este projeto foi útil, considere dar uma ⭐!
-  
-  **[🚀 Ver Demo](https://bistro-serenatto.vercel.app)** • **[📝 Reportar Bug](../../issues)** • **[💡 Sugerir Feature](../../issues)**
-
-</div>
-
----
-
-## 📸 Screenshots
-
-![Desktop Demo](imgcafe-demo.png)
-
-### 📱 Mobile Views
-<div align="center">
-  <img src="./Serenatto/assets/banner-1.png" alt="Mobile View 1" width="250">
-  <img src="./Serenatto/assets/banner-2.png" alt="Mobile View 2" width="250">
-  <img src="./Serenatto/assets/banner-3.png" alt="Mobile View 3" width="250">
-</div>
